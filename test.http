@@ -1,0 +1,13 @@
+GET http://actualize.co
+
+###
+
+GET https://data.sfgov.org/resource/jjew-r69b.json
+
+###
+
+GET http://api.openweathermap.org/data/2.5/weather?q=san francisco&units=imperial&appid=9beb296210c3171be00be7e99d0e7ba8
+
+###
+
+GET https://api.wordnik.com/v4/word.json/hedgehog/definitions?limit=200&includeRelated=false&useCanonical=false&includeTags=false&api_key=<YOUR API KEY>
